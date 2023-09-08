@@ -11,8 +11,8 @@ Varis Olli, Kummu Matti**
 
 *"World's human migration patterns in 2000–2019 unveiled by high-resolution data"*
 
-Published in [FILL DETAILS UPON PUBLICATION]  
-DOI: [FILL DOI UPON PUBLICATION]
+Published in Nature Human Behaviour
+DOI: https://doi.org/10.1038/s41562-023-01689-4
 
 Corresponding authors of the article:  
 Venla Niva (venla.niva@aalto.fi)  
